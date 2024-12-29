@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /private/
+Disallow: /admin/
+Allow: /
+
+Sitemap: https://ferialex453.github.io/indofood/index.xml
